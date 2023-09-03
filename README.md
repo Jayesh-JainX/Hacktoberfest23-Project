@@ -44,7 +44,7 @@ To get started with this project, follow these steps:
 2. **Clone the forked repository** to your local machine.
 
    ```
-   https://github.com/UsmanUet276/Hacktoberfest23-Project.git
+   git clone https://github.com/your-username/Hacktoberfest23-Project.git
    ```
 
 3. **Navigate to the project directory**.
