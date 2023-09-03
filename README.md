@@ -4,6 +4,10 @@
 
 This repository is home to an exciting web development project that aims to create a feature-rich website for a software solutions company. We invite you to join us in making this project a success as part of the Hacktoberfest 2023 celebration. Your contributions will not only earn you cool swag but also leave a lasting impact on this open-source endeavor. 🚀
 
+## Note
+
+Pushed a demo webpage for reference and color scheme. So keep contributing and dont panic.
+
 ![Hacktoberfest Logo](https://img.shields.io/badge/Hacktoberfest-2023-brightgreen.svg) 
 
 [![GitHub - UsmanUet276](https://img.shields.io/badge/GitHub-UsmanUet276-blue?style=flat&logo=github)](https://github.com/UsmanUet276)
