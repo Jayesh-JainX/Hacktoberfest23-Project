@@ -3,7 +3,7 @@
 #### CELEBRATING 10TH YEAR OF OPEN SOURCE!
 # Contribute to open source and Earn Digital Rewards 🚀
 #### Star & fork this Repo first 
-![Hacktoberfest 2023](https://github.com/Jayesh-JainX/Hacktoberfest-23/assets/103871719/63bc748c-65a6-4188-8910-55748ad46f56)
+![Hacktoberfest 2023](https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg?fit=1200%2C630)
 
 Use this project to make your contributions to open source during HacktoberFest 2023. Practice making your pull requests to public repositories before doing the real thing! 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
@@ -62,7 +62,7 @@ git push origin your-branch-name
 * Wait for your PR review and merge approval!
 
 ## Code of Conduct
-Please review and follow our [Code of Conduct](CONTRIBUTING.md). We are committed to providing a welcoming and respectful environment for all contributors.
+Please review and follow our [Code of Conduct](Code_of_Conduct.md). We are committed to providing a welcoming and respectful environment for all contributors.
 
 ## Tasks
 
