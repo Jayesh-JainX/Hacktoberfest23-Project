@@ -1,98 +1,87 @@
-# Hacktoberfest'23 Open Source Project 🌟
+<div align="center"> <h1> 💛🎯 HacktoberFest 2023 💛🎯 </h1> </div>
 
-🎉 Welcome to the Hacktoberfest'23 open source project repository! 🎉
+#### CELEBRATING 10TH YEAR OF OPEN SOURCE!
+# Contribute to open source and Earn Digital Rewards 🚀
+#### Star & fork this Repo first 
+![Hacktoberfest 2023](https://github.com/Jayesh-JainX/Hacktoberfest-23/assets/103871719/63bc748c-65a6-4188-8910-55748ad46f56)
 
-This repository is home to an exciting web development project that aims to create a feature-rich website for a software solutions company. We invite you to join us in making this project a success as part of the Hacktoberfest 2023 celebration. Your contributions will not only earn you cool swag but also leave a lasting impact on this open-source endeavor. 🚀
+Use this project to make your contributions to open source during HacktoberFest 2023. Practice making your pull requests to public repositories before doing the real thing! 
+This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-## Note
+## To participate, visit: [Hacktoberfest Official Website](https://hacktoberfest.com/participation/)
+## What is Hacktoberfest?
+Hacktoberfest is an annual event that runs throughout October, sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest), to encourage contributions to open source projects.
+[Hacktoberfest Official Website](https://hacktoberfest.com/)
 
-Pushed a demo webpage for reference and color scheme. So keep contributing and dont panic.
+# How to contribute to this project
+### Video tutorials:
+- [Hacktoberfest Official Website](https://hacktoberfest.com/)
 
-![Hacktoberfest Logo](https://img.shields.io/badge/Hacktoberfest-2023-brightgreen.svg) 
+- [How to Do Your First Pull Request](https://hacktoberfest.com/participation/#beginner-resources)
+- [Video Tutorial](https://www.youtube.com/watch?v=xweXYoeNkoA)
 
-[![GitHub - UsmanUet276](https://img.shields.io/badge/GitHub-UsmanUet276-blue?style=flat&logo=github)](https://github.com/UsmanUet276)
+### For Beginners
+1) Visit & Learn   [Tutorial Github](https://www.youtube.com/watch?v=RGOj5yH7evk)
+2) Clone this repo
+3) Make a pull request
+4) Wait until your pull request is merged/given accepted tag
 
-[![LinkedIn - Muhammad Usman](https://img.shields.io/badge/LinkedIn-Muhammad%20Usman%20Bin%20Farid-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-bin-farid/)
+## Enjoy, and be a part of open source 🚀🥳
 
+## Getting started
 
-## Introduction 🌟
+* Star this repository
 
-![Hacktoberfest Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
+![Star Image](https://github.com/Jayesh-JainX/Hacktoberfest-23/assets/103871719/42306c3d-0dba-4bf1-b378-2afb39989ee3)
 
-Hacktoberfest is an annual event that brings open source enthusiasts like you together to contribute to various open-source projects. This year, we've embarked on an exciting journey to build a dynamic website for a software solutions company. We encourage you to participate and help us create an impressive online presence for this company through your coding skills. 🎨
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 
-## Project Overview 💡
+![Fork Image](https://github.com/Jayesh-JainX/Hacktoberfest-23/assets/103871719/dcd3d8eb-7563-4ab6-8371-ee39bf551786)
 
-Our project is focused on building a dynamic website for a software solutions company. We are using a tech stack that includes:
+* Clone your fork down to your local machine
+```
+git clone https://github.com/your-username/Hacktoberfest
+``````
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+* Create a branch
+```
+git checkout -b enter-your-branch-name
+```
+* Make your changes, Commit and push
+```
+git add .
+```
+```
+git commit -m 'Commit message'
+```
+```
+git push origin your-branch-name
+```
 
-### Features 🚀
+* Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+* Wait for your PR review and merge approval!
 
-The website aims to showcase the software solutions company in the best light and will include the following features:
+## Code of Conduct
+Please review and follow our [Code of Conduct](CONTRIBUTING.md). We are committed to providing a welcoming and respectful environment for all contributors.
 
-- A professional and responsive design that adapts to various screen sizes.
-- Engaging user interfaces crafted with Bootstrap to provide a modern look and feel.
-- Interactive elements and animations to captivate visitors.
-- Seamless navigation that guides users through the company's services and portfolio.
+## Tasks
 
-## Getting Started 🚀
+1. Add your name
 
-To get started with this project, follow these steps:
+Add your name to the Profile.md file using the below convention:
 
-1. **Fork this repository** to your GitHub account.
+| Name             |                   Github Profile                   |      Interest       |                       Bio |
+| :--------------- | :------------------------------------------------: | ------------------: | ------------------------: |
+|Jayesh|[Jayesh](https://github.com/Jayesh-JainX/) | Coding, Sports | Be Happy |
 
-2. **Clone the forked repository** to your local machine.
+### Wait for Pull Request to merge
+Once you've submitted your pull request, our team will review it as soon as possible. We appreciate your contribution to our open source community!
 
-   ```
-   git clone https://github.com/your-username/Hacktoberfest23-Project.git
-   ```
+### Celebrate - you've done your first pull request!!
+Take a moment to pat yourself on the back. You're now part of the global open source community, making a difference one contribution at a time. 🎉✨
 
-3. **Navigate to the project directory**.
+### Keep Contributing
+Hacktoberfest is just the beginning. Continue exploring open source, contributing to projects you're passionate about, and enhancing your skills. Your journey in the world of code has only just begun!
 
-   cd Hacktoberfest23-Project
-
-4. **Open the project in your favorite code editor** and start making your contributions! 🖥️
-
-## Contributing 🤝
-
-We welcome contributions from developers of all skill levels. Here's how you can contribute:
-
-1. Check the [Issues](https://github.com/UsmanUet276/Hacktoberfest23-Project/issues) section for existing issues or **create a new issue** to discuss your proposed changes.
-
-2. **Fork the repository** and create a new branch for your feature or bug fix. 🌿
-
-   ```
-   git checkout -b feature/your-feature
-   ```
-
-3. Make your changes and commit them with descriptive messages. 📝
-
-   ```
-   git commit -m "Add your descriptive message here"
-   ```
-
-4. **Push your changes to your fork**. 🚢
-
-   ```
-   git push origin feature/your-feature
-   ```
-
-5. Create a **Pull Request (PR)** from your fork to this repository. Be sure to reference the issue you're addressing in the PR description. 🔄
-
-6. Wait for your PR to be reviewed and merged. Congratulations, you've contributed to Hacktoberfest'23! 🎉
-
-## Code of Conduct 📜
-
-Please review our [Code of Conduct](https://github.com/UsmanUet276/Hacktoberfest23-Project/blob/main/CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for all contributors. 🤗
-
-## License 📝
-
-This project is licensed under the [MIT License](https://github.com/UsmanUet276/Hacktoberfest23-Project/blob/main/LICENSE).
-
-------
-
-Thank you for considering contributing to Hacktoberfest'23! We're excited to see your valuable contributions that will help create an impressive website for a software solutions company. Let's code together and make this project shine! 🌟🚀🎉
+### Happy Coding! 🚀🥳
+We look forward to seeing your contributions and hope you have a fantastic Hacktoberfest 2023 experience. Thank you for being a part of our open source family!
